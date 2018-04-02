@@ -1,0 +1,22 @@
+{
+  "name": "indikagamage/unyson-shortcodes",
+  "type": "wordpress-plugin",
+  "license": ["GPL-2.0"],
+  
+  "description": "Page builder shortcodes extention for WordPress unyson framework",
+  "authors": [
+    {
+      "name": "Indika Gamage",
+      "email": "indika@eight25media.com",
+      "homepage": "https://github.com/indikagamage/unyson"
+    }
+  ],
+  "keywords": [
+    "wordpress", "composer","wp","unyson","builder"
+  ],
+  
+  "require": {
+    "php": ">=5.6" 
+  }
+  
+}
